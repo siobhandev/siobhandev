@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv"  />
+  <img height="full" src="https://f8n-production-collection-assets.imgix.net/0x96652ac17375937B64E8677aE5a8F630623Aa703/3/nft.gif?q=80&auto=compress&cs=srgb&h=240"  />
 </div>
 
 ###
@@ -12,6 +12,9 @@
 
 ###
 
+<br>
+
+###
 <h3 align="left">🌟 About Me</h3>
 
 ###
@@ -20,6 +23,9 @@
 
 ###
 
+<hr/>
+
+###
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -44,15 +50,19 @@
 
 ###
 
-<h3 align="left">📜 Certifications</h3>
+<hr/>
 
 ###
 
-<img align="left" height="100" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png"  />
+<h3 align="left">📍 Certifications</h3>
 
 ###
 
-<img align="left" height="100" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png"  />
+<img align="left" height="150" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png"  />
+
+###
+
+<img align="left" height="150" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png"  />
 
 ###
 
