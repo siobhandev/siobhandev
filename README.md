@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi I'm Siobhan 👋</h1>
+<h1 align="center">Hi there, I'm Siobhan 👋</h1>
 
 ###
 
@@ -70,7 +70,7 @@
 
 ###
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left">🔗 Connect with me</h3>
 
 ###
 
