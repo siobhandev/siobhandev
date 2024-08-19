@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="center">A passionate backend developer 👩‍💻</h2>
+<h2 align="center">A passionate backend developer 👨‍💻</h2>
 
 ###
 
