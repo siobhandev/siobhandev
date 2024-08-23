@@ -4,29 +4,30 @@
 
 ###
 
-<h1 align="center">Hi there, I'm Siobhan 👋</h1>
+<h1 align="center"><b>Hi there, I'm Siobhan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ###
 
-<h2 align="center">A passionate backend developer 👨‍💻</h2>
+<h2 align="center">A passionate backend developer 💻</h2>
 
 ###
 
 <br>
 
 ###
-<h3 align="left">🌟 About Me</h3>
+<h3 align="left">🌀 About Me</h3>
 
 ###
 
-<p align="left">I'm Siobhan from México my main skills are Python development, database management and API creation<br><br>- 🌱 I'm currently learning about different AWS Services<br><br>- 💬 Ask me about AWS Lambda, Amplify, DynamoDB, SQL<br><br>- 📫 How to reach me siobhanmt.dev@gmail.com</p>
+<p align="left">I'm Siobhan from México my main skills are Python development, database management and API creation<br><br>- 🌱 <b>Currently exploring:</b> diving into various AWS services to expand my knowledge<br><br>- 💬 <b>Let's talk about:</b> AWS Lambda, Amplify, DynamoDB, SQL and things in the cloud<br><br>- 📫 <b>Get in Touch:</b> Reach me at siobhanmt.dev@gmail.com</p>
 
 ###
 
-<hr/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ###
-<h3 align="left">🛠 Language and tools</h3>
+
+<h3 align="left">🛠️ Language and tools</h3>
 
 ###
 
@@ -50,11 +51,11 @@
 
 ###
 
-<hr/>
+<br>
 
 ###
 
-<h3 align="left">📍 Certifications</h3>
+<h3 align="left">📌 Certifications</h3>
 
 ###
 
@@ -67,6 +68,10 @@
 ###
 
 <br clear="both">
+
+###
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ###
 
