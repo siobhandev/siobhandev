@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="full" src="https://f8n-production-collection-assets.imgix.net/0x96652ac17375937B64E8677aE5a8F630623Aa703/3/nft.gif?q=80&auto=compress&cs=srgb&h=240"  />
+  <img height="full" src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif?q=80&auto=compress&cs=srgb&h=240"  />
 </div>
 
 ###
