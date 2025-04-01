@@ -75,14 +75,3 @@
 
 ###
 
-<h3 align="left">🔗 Connect with me</h3>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/siobhanmt3/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
