@@ -43,8 +43,6 @@
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
 </div>
 
 ###
