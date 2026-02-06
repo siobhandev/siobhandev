@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm Siobhan from México my main skills are Python development, database management and API creation<br><br>- 🌱 <b>Currently exploring:</b> delving into different AWS services to expand my knowledge<br><br>- 💬 <b>Let's talk about:</b> AWS Lambda, Amplify, DynamoDB, SQL and things in the cloud<br><br>- 📫 <b>Get in Touch:</b> Reach me at siobhanmt.dev@gmail.com</p>
+<p align="left">I'm Siobhan from México my main skills are Python development, database management and API creation<br><br>- 🌱 <b>Currently exploring:</b> delving into different AWS services to expand my knowledge<br><br>- 💬 <b>Let's talk about:</b> AWS Lambda, AWS Cloud Development Kit, DynamoDB, SQL and things in the cloud<br><br>- 📫 <b>Get in Touch:</b> Reach me at siobhanmt.dev@gmail.com</p>
 
 ###
 
