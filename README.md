@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="full" src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif?q=80&auto=compress&cs=srgb&h=240"  />
-</div>
-
-###
-
 <h1 align="center"><b>Hi there, I'm Siobhan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ###
