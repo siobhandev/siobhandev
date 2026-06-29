@@ -71,7 +71,7 @@ I enjoy turning complex ideas into systems that are clean, maintainable, and pro
 
 <div align="center">
 
-### Databases and search
+### Databases
 
 <img src="https://img.shields.io/badge/DynamoDB-2563EB?style=flat-square" />
 <img src="https://img.shields.io/badge/PostgreSQL-38BDF8?style=flat-square" />
